@@ -29,7 +29,7 @@ During the second session of the workshop, custom components were created. We sa
 
 Custom components created in this session:
 - `CustomButton` - for displaying a button, which can be filled or unfilled
-- `Product` - for displaying a product, which has `title`, `price`, `imgUrl` and amount
+- `Product` - for displaying a product, which has `title`, `price`, `imgUrl` and `amount`
 - `PaymentModal` - for displaying a modal in which a summary of the order is displayed
 
 ![Session 2 - Picture 1](./pics/session2.jpg)
