@@ -21,6 +21,7 @@ Steps for project setup:
 7. Scan the QR code / run the app in a simulator / emulator
 
 Basic React Native components such as `View`, `Text`, `Button`, `Image` were introduced.
+
 ![Session 1 - Picture 1](./pics/session1.jpg)
 ___
 ## Session 2 - Create Custom Components
@@ -30,4 +31,5 @@ Custom components created in this session:
 - `CustomButton` - for displaying a button, which can be filled or unfilled
 - `Product` - for displaying a product, which has `title`, `price`, `imgUrl` and amount
 - `PaymentModal` - for displaying a modal in which a summary of the order is displayed
+
 ![Session 2 - Picture 1](./pics/session2.jpg)
