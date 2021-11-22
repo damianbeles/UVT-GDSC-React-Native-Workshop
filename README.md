@@ -33,3 +33,35 @@ Custom components created in this session:
 - `PaymentModal` - for displaying a modal in which a summary of the order is displayed
 
 ![Session 2 - Picture 1](./pics/session2.jpg)
+---
+## Session 3 - React Native Navigation
+During the third session of the workshop, React Native navigation was presented, namely Stack Navigation, Tab Navigation and Drawer Navigation.
+
+[React Navigation library](https://reactnavigation.org/) was used in this workshop, so make sure you go & check their documentation for more useful info.
+
+### Screens setup
+Firstly, check the screen under the `/screens` directory. There you'll see `F1VideosScreen`. In order for this one to display properly, you should run:
+`expo install react-native-webview` & `npm install react-native-youtube-iframe`. The library used is [React Native Youtube-iframe](https://lonelycpp.github.io/react-native-youtube-iframe/) so make sure you check their documentation for more info.
+
+### Navigation setup
+In `App.js`, under the `App` component, you should see three different navigations: Stack, Tab & Drawer. When you run the app, make sure to let just one uncommented.
+
+#### General setup
+1. `npm install @react-navigation/native`
+2. `expo install react-native-screens react-native-safe-area-context`
+
+#### Stack Navigation setup steps
+1. `npm install @react-navigation/native-stack`
+
+#### Tab Navigation setup steps
+1. `npm install @react-navigation/bottom-tabs`
+2. `@expo/vector-icons/Ionicons` // note that this is optional, and it is only necessary if you would like those icons for the bottom tabs
+
+#### Drawer Navigation setup steps
+1. `npm install @react-navigation/drawer`
+2. `expo install react-native-gesture-handler react-native-reanimated`
+
+
+| Stack Navigation | Tab Navigation | Drawer Navigation |
+|:---:|:---:|:---:|
+| ![Session 3 - Stack Navigation](./pics/stacknavigation.gif) | ![Session 3 - Tab Navigation](./pics/tabnavigation.gif) | ![Session 3 - Drawer Navigation](./pics/drawernavigation.gif) |
