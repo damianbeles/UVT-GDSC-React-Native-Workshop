@@ -65,3 +65,11 @@ In `App.js`, under the `App` component, you should see three different navigatio
 | Stack Navigation | Tab Navigation | Drawer Navigation |
 |:---:|:---:|:---:|
 | ![Session 3 - Stack Navigation](./pics/stacknavigation.gif) | ![Session 3 - Tab Navigation](./pics/tabnavigation.gif) | ![Session 3 - Drawer Navigation](./pics/drawernavigation.gif) |
+---
+## Session 4 - Scanning QR Codes
+During the fourth session of the workshop, QR code scanning was introduced together with how we can use data inside them.
+
+To scan QR codes, the library used is [Expo's BarCodeScanner](https://docs.expo.dev/versions/latest/sdk/bar-code-scanner/), so make sure you read the documentation found on their website.
+
+To run this app, you need to set up the stack navigation introduced in a previous session and run `expo install expo-barcode-scanner`.
+![Session 4 - QR Code scanning](./pics/session4.gif)
