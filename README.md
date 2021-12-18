@@ -73,3 +73,10 @@ To scan QR codes, the library used is [Expo's BarCodeScanner](https://docs.expo.
 
 To run this app, you need to set up the stack navigation introduced in a previous session and run `expo install expo-barcode-scanner`.
 ![Session 4 - QR Code scanning](./pics/session4.gif)
+---
+## Session 5 - Playing with the camera
+During the fifth session of the workshop, we saw how we can take pictures / videos with the camera and went through the library's documentation to see how we can further develop our code in order to save that media since it's stored only as a temp file.
+
+[Camera](https://docs.expo.dev/versions/latest/sdk/camera/) library from Expo was used, so make sure you go through their documentation to learn more. To use it, just run `expo install expo-camera`.
+
+![Session 5 - Playing with the camera](./pics/session5.jpg)
