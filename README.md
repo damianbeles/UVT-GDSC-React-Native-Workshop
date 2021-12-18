@@ -80,3 +80,10 @@ During the fifth session of the workshop, we saw how we can take pictures / vide
 [Camera](https://docs.expo.dev/versions/latest/sdk/camera/) library from Expo was used, so make sure you go through their documentation to learn more. To use it, just run `expo install expo-camera`.
 
 ![Session 5 - Playing with the camera](./pics/session5.jpg)
+---
+## Session 6 - Public APIs usage
+During the sixth and final session of the workshop, the usage of `fetch` was introduced.
+
+Looking into [Public APIs](https://github.com/public-apis/public-apis) repository, we discovered a public API that, on each fetch, gives us a different cat photo. After we finished with that, we went through more public APIs and identified real life use cases for some of them. There are lots of awesome APIs, so if you want to find something suitable for you, make sure to check that repo.
+
+![Session 6 - Public APIs usage](./pics/session6.gif)
