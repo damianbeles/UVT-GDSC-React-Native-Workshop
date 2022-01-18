@@ -33,7 +33,7 @@ Custom components created in this session:
 - `PaymentModal` - for displaying a modal in which a summary of the order is displayed
 
 ![Session 2 - Picture 1](./pics/session2.jpg)
----
+___
 ## Session 3 - React Native Navigation
 During the third session of the workshop, React Native navigation was presented, namely Stack Navigation, Tab Navigation and Drawer Navigation.
 
@@ -65,7 +65,7 @@ In `App.js`, under the `App` component, you should see three different navigatio
 | Stack Navigation | Tab Navigation | Drawer Navigation |
 |:---:|:---:|:---:|
 | ![Session 3 - Stack Navigation](./pics/stacknavigation.gif) | ![Session 3 - Tab Navigation](./pics/tabnavigation.gif) | ![Session 3 - Drawer Navigation](./pics/drawernavigation.gif) |
----
+___
 ## Session 4 - Scanning QR Codes
 During the fourth session of the workshop, QR code scanning was introduced together with how we can use data inside them.
 
@@ -74,14 +74,14 @@ To scan QR codes, the library used is [Expo's BarCodeScanner](https://docs.expo.
 To run this app, you need to set up the stack navigation introduced in a previous session and run `expo install expo-barcode-scanner`.
 
 ![Session 4 - QR Code scanning](./pics/session4.gif)
----
+___
 ## Session 5 - Playing with the camera
 During the fifth session of the workshop, we saw how we can take pictures / videos with the camera and went through the library's documentation to see how we can further develop our code in order to save that media since it's stored only as a temp file.
 
 [Camera](https://docs.expo.dev/versions/latest/sdk/camera/) library from Expo was used, so make sure you go through their documentation to learn more. To use it, just run `expo install expo-camera`.
 
 ![Session 5 - Playing with the camera](./pics/session5.jpg)
----
+___
 ## Session 6 - Public APIs usage
 During the sixth and final session of the workshop, the usage of `fetch` was introduced.
 
