@@ -55,7 +55,7 @@ In `App.js`, under the `App` component, you should see three different navigatio
 
 #### Tab Navigation setup steps
 1. `npm install @react-navigation/bottom-tabs`
-2. `@expo/vector-icons/Ionicons` // note that this is optional, and it is only necessary if you would like those icons for the bottom tabs
+2. `npm install @expo/vector-icons/Ionicons` // note that this is optional, and it is only necessary if you would like those icons for the bottom tabs
 
 #### Drawer Navigation setup steps
 1. `npm install @react-navigation/drawer`
